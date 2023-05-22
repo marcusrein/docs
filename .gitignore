@@ -11,3 +11,7 @@ neardev
 .idea
 .docz
 
+
+.git
+.gitignore
+.vscode

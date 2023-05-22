@@ -2,5 +2,10 @@
     "editor.formatOnSave": true,
     "cSpell.words": [
         "Assemblyscript"
-    ]
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#0A342C",
+        "titleBar.activeBackground": "#0E493E",
+        "titleBar.activeForeground": "#F3FDFB"
+    }
 }
